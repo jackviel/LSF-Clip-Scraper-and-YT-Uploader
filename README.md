@@ -1,4 +1,4 @@
-# LSF-Clip-Scraper-and-YT-Uploader
+# LSF Clip Scraper and YT Uploader
 
 Web scraper that gets the top clips from r/livestreamfail, downloads them and uploads them to YouTube.
 
